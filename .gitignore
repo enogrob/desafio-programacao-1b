@@ -1,0 +1,7 @@
+.idea/
+rails-upload-app/.bundle
+rails-upload-app/db/*.sqlite3
+rails-upload-app/db/*.sqlite3-journal
+rails-upload-app/log/*
+rails-upload-app/tmp
+rails-upload-app/.idea/
